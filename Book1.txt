@@ -1,4 +1,4 @@
-standard (mg/L)	measured (mg/L)
+time (s)	velocity (m/s)
 0	6.81
 1	6.3
 2	5.43
