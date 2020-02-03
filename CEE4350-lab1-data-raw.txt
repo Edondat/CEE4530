@@ -1,4 +1,4 @@
-absorbance	concentration
+Absorbance	Concentration (mg/L)
 0	0
 0.006	1
 0.071	2
