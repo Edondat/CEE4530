@@ -1,0 +1,4 @@
+file name	carbon (g)	flow rate (mL/s)
+Lab5-0gAC.tsv	0	0.5
+Lab5-5gAC.tsv	5	0.5
+Lab5-10gAC.tsv	10	0.5
