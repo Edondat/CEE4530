@@ -1,4 +1,0 @@
-file name	carbon (g)	flow rate (mL/s)
-Lab5-0gAC.xlsx	0	0.5
-Lab5-5gAC.xlsx	5	0.5
-Lab5-10gAC.xlsx	10	0.5
